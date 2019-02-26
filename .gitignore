@@ -1,0 +1,36 @@
+/target/
+/.classpath
+/test-output/
+/.settings/
+/.DS_Store
+/bin/
+/.project
+
+.idea/
+aft_testing.iml
+target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+#Some new changes
+
+SomeFolder/
+
+bin/
+/test-output/
+test-output/
